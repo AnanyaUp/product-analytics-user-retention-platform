@@ -18,6 +18,10 @@ data/raw/
 2019-Nov.csv
 2019-Nov.csv.zip
 
+
+# Processed dataset
+data/processed/events_sample.csv
+
 # Large generated outputs
 outputs/customer_segments.csv
 outputs/rfm_metrics.csv
