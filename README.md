@@ -5,6 +5,19 @@ An end-to-end Product Analytics project built using PostgreSQL, Python, Machine 
 The project analyzes customer behavior, conversion funnels, retention trends, customer segments, and churn prediction using an e-commerce dataset.
 
 ---
+## Dataset
+
+This project uses the Ecommerce Behavior Dataset from a multi-category online store.
+
+* Original Dataset Size: ~9 GB
+* Source: Kaggle Ecommerce Behavior Dataset
+* Total Events Analyzed: 675,000+
+* Event Types: View, Cart, Purchase
+
+Due to GitHub storage limitations, the raw and processed datasets are not included in this repository.
+
+The complete analytics pipeline, SQL scripts, notebooks, machine learning models, and Power BI dashboards are provided so the analysis can be reproduced using the original dataset.
+
 
 ## Tech Stack
 
