@@ -9,6 +9,7 @@ venv/
 
 *.tmp
 
+<<<<<<< HEAD
 # Raw datasets
 data/raw/
 *.zip
@@ -20,3 +21,10 @@ data/raw/
 # Large generated outputs
 outputs/customer_segments.csv
 outputs/rfm_metrics.csv
+=======
+data/raw/
+*.zip
+
+2019-Nov.csv
+2019-Nov.csv.zip
+>>>>>>> 7e850a16ce3713cf1dcf79f138c8866b25ca6fa0
