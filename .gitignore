@@ -1,10 +1,18 @@
-venv/
+__pycache__/
 .ipynb_checkpoints/
 
-data/raw/
+*.pyc
+*.pyo
 
+venv/
+.env
+
+*.tmp
+
+# Raw datasets
+data/raw/
 *.zip
 
-# raw ecommerce dataset
+# Large ecommerce dataset
 2019-Nov.csv
 2019-Nov.csv.zip
