@@ -1,0 +1,22 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+venv/
+.env
+
+*.tmp
+
+# Raw datasets
+data/raw/
+*.zip
+
+# Large ecommerce dataset
+2019-Nov.csv
+2019-Nov.csv.zip
+
+# Large generated outputs
+outputs/customer_segments.csv
+outputs/rfm_metrics.csv
