@@ -267,7 +267,7 @@ Machine learning was used to predict customer churn.
 
 ## Executive Dashboard
 
-![Executive Dashboard](../powerbi/dashboards/dashboard_1_executive.png)
+![Executive Dashboard](powerbi/dashboards/dashboard_1_executive.png)
 
 ---
 
