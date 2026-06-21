@@ -313,11 +313,6 @@ Machine learning was used to predict customer churn.
 
 ![Customer Segments](outputs/customer_segments.png)
 
----
-
-## Churn Feature Importance
-
-![Feature Importance](outputs/churn_feature_importance.png)
 
 ---
 
